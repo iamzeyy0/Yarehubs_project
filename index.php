@@ -11,7 +11,7 @@
 <body>
     <div class="container">
         <div class="background">
-            <img src="anya.jpeg" alt="Background Image">
+            <img src="img/anya.jpeg" alt="Background Image">
         </div>
         <div class="login-box">
             <h1>Log In Or Sign Up</h1>
